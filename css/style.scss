@@ -176,3 +176,20 @@ body {
   height: 120px;
   border-radius: 50%;
 }
+.table-1 tr td{
+  text-align: center;
+}
+.modal-body select{
+  height: 40px;
+}
+.box-reservations{
+  border: 2px solid rgba(82, 76, 76, 0.575);
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.363);
+}
+.img-box-reservations{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #000;
+}
